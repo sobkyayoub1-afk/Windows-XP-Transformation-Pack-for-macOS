@@ -10,7 +10,7 @@ Buttons disappear when the window is closed.
 
 Fully customizable: use your own XP-style button image pack.
 
-Classic ASCII taskbar coded in collaboration with ChatGPT — brings that retro text-based XP look to your desktop.
+Classic taskbar coded in collaboration with ChatGPT — brings that retro text-based XP look to your desktop.
 
 🛠 Installation
 
