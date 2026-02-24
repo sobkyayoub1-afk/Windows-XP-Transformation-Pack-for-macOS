@@ -113,6 +113,6 @@ Important notes:
 The cursor pack does not come bundled with the main release you download from the Releases tab.
 
 To use it, you need Mousecape (if you are having issues with Macos 26 use this version https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport/releases/tag/PreRelease-v01)
-The optional .mousecape file is included in the source code. You can find it in the repository and install it manually.
+The optional .cape file is included in the source code. You can find it in the repository and install it manually.
 
 Once installed, your cursors will match the Windows XP theme along with the XP-style buttons.
