@@ -59,3 +59,30 @@ These assets are not included in this repository. You need to provide your own b
 The Lua script in this repository is licensed under the MIT License.
 
 The XP-style assets are not included and remain the property of their original sources (Reborn XP / Quenq). Use your own images to comply with copyright rules.
+
+
+
+
+
+
+
+
+⚠ Deprecated: window.py
+
+The window.py script is a legacy Python file from older versions of this project and is no longer functional.
+
+Important:
+
+Using it may break XP button overlays, duplicate buttons, or conflict with the ASCII taskbar.
+
+It is retained only for historical reference and should not be executed under any circumstances.
+
+Use the current Lua script instead:
+
+Handles XP-style Close, Minimize, and Maximize buttons
+
+Fully compatible with the ASCII taskbar
+
+Updates dynamically when windows move, resize, or close
+
+⚡ Tip: Always reference your XP button images in the current Lua script; do not attempt to revive window.py.
