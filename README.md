@@ -86,3 +86,16 @@ Fully compatible with the ASCII taskbar
 Updates dynamically when windows move, resize, or close
 
 ⚡ Tip: Always reference your XP button images in the current Lua script; do not attempt to revive window.py.
+
+
+⚠ Known Bug – Random XP Buttons
+
+Some users may occasionally see random XP-style “X” buttons appear on the screen where no window exists. This is due to a Hammerspoon-related quirk with the current button overlay system.
+
+What to do if this happens:
+
+Simply click the random X button to close it.
+
+Once all the stray buttons are closed, they will not appear again until the script is reloaded.
+
+We are aware of this issue and plan to address it in a future update. In the meantime, closing the zombie buttons manually is the safe workaround.
