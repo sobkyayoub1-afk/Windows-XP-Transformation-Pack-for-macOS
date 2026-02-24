@@ -34,7 +34,7 @@ Reload Hammerspoon (Cmd+Alt+Ctrl+R) or restart the app.
 
 Focus a window to see the XP buttons appear on the right side of the window.
 
-Enjoy the classic ASCII taskbar at the bottom of your screen — fully customizable via the Lua script.
+Enjoy the classic taskbar at the bottom of your screen — fully customizable via the Lua script.
 
 🎨 Customization
 
@@ -44,7 +44,7 @@ Replace the button images with your own XP-style icons.
 
 Adjust BUTTON_SIZE and TITLEBAR_HEIGHT if needed for different screen resolutions.
 
-Modify the ASCII taskbar text or styling directly in the Lua script to suit your retro aesthetic.
+Modify the  taskbar text or styling directly in the Lua script to suit your retro aesthetic.
 
 📌 Assets & Credits
 
