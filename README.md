@@ -81,7 +81,7 @@ Use the current Lua script instead:
 
 Handles XP-style Close, Minimize, and Maximize buttons
 
-Fully compatible with the ASCII taskbar
+Fully compatible with the  taskbar
 
 Updates dynamically when windows move, resize, or close
 
