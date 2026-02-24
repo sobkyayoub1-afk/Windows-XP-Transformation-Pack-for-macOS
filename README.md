@@ -99,3 +99,20 @@ Simply click the random X button to close it.
 Once all the stray buttons are closed, they will not appear again until the script is reloaded.
 
 We are aware of this issue and plan to address it in a future update. In the meantime, closing the zombie buttons manually is the safe workaround.
+
+
+
+
+
+🖱 Optional Mousecape Cursor Pack
+
+If you want a complete Windows XP experience, you can also use the optional Mousecape cursor pack.
+
+Important notes:
+
+The cursor pack does not come bundled with the main release you download from the Releases tab.
+
+To use it, you need Mousecape (if you are having issues with Macos 26 use this version https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport/releases/tag/PreRelease-v01)
+The optional .mousecape file is included in the source code. You can find it in the repository and install it manually.
+
+Once installed, your cursors will match the Windows XP theme along with the XP-style buttons.
