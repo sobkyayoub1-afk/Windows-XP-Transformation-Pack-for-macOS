@@ -116,3 +116,8 @@ To use it, you need Mousecape (if you are having issues with Macos 26 use this v
 The optional .cape file is included in the source code. You can find it in the repository and install it manually.
 
 Once installed, your cursors will match the Windows XP theme along with the XP-style buttons.
+
+
+After reloading Hammerspoon, the XP buttons may not appear immediately.
+Simply press Cmd + Tab a few times to cycle through applications —
+the buttons will attach to the active windows automatically.
