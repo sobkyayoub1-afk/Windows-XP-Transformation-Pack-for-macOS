@@ -73,7 +73,7 @@ The window.py script is a legacy Python file from older versions of this project
 
 Important:
 
-Using it may break XP button overlays, duplicate buttons, or conflict with the ASCII taskbar.
+Using it may break XP button overlays, duplicate buttons, or conflict with the taskbar.
 
 It is retained only for historical reference and should not be executed under any circumstances.
 
